@@ -1,0 +1,4 @@
+[core]
+    remote = ssh_ed
+['remote "ssh_ed"']
+    url = ssh://dzailz@192.168.111.121:22/~/dvc
